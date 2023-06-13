@@ -1,0 +1,61 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "name": "Kung-Fu tulpor",
+        "categorie":"Kino",
+        "image": "https://img.freekino.net/banner/kung-fu-tulpor_1686038021.jpg",
+        "link": "https://www.freekino.net/movie/2254-kung-fu-tulpor"
+      },
+      {
+        "id": 2,
+        "name": "Qo'rg'on sirlari",
+        "categorie":"Serial",
+        "image": "https://img.freekino.net/banner/qorgon-sirlari_1685496585.jpg",
+        "link": "https://www.freekino.net/serial/118-qorgon-sirlari"
+      },
+      {
+        "id": 3,
+        "name": "Penthaus",
+        "categorie":"Serial",
+        "image": "https://img.freekino.net/banner/pentxaus_1686125886.jpg",
+        "link": "https://www.freekino.net/serial/146-pentxaus"
+      },
+      {
+        "id": 4,
+        "name": "Mahkum",
+        "categorie":"Serial",
+        "image": "https://img.freekino.net/banner/mahkum_1686112617.jpg",
+        "link": "https://www.freekino.net/serial/117-mahkum"
+      },
+      {
+        "id": 5,
+        "name": "Nomus",
+        "categorie":"Serial",
+        "image": "https://img.freekino.net/banner/nomus_1668857992.jpg",
+        "link": "https://www.freekino.net/serial/69-nomus"
+      },
+      {
+        "id": 6,
+        "name": "Hukm",
+        "categorie":"Serial",
+        "image": "https://img.freekino.net/banner/hukm_1686113901.jpg",
+        "link": "https://www.freekino.net/serial/143-hukm-xukm"
+      },
+      {
+        "id": 7,
+        "name": "Olovli yurak",
+        "categorie":"Serial",
+        "image": "https://img.freekino.net/banner/olovli-yurak_1686114023.jpg",
+        "link": "https://www.freekino.net/serial/103-olovli-yurak"
+      },
+      {
+        "id": 8,
+        "name": "Hukumdor Usmon",
+        "categorie":"Serial",
+        "image": "https://img.freekino.net/banner/hukmdor-usmon_1686113921.jpg",
+        "link": "https://www.freekino.net/serial/76-hukmdor-usmon"
+      }
+    ]
+  }
+  
