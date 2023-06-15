@@ -2,10 +2,9 @@
     "movies": [
       {
         "id": 1,
-        "name": "Kung-Fu tulpor",
+        "name": "Forsaj 10",
         "categorie":"Kino",
-        "image": "https://img.freekino.net/banner/kung-fu-tulpor_1686038021.jpg",
-        "link": "https://www.freekino.net/movie/2254-kung-fu-tulpor"
+        "image": "https://img.freekino.net/banner/f10-forsaj-10_1686826507.jpg"
       },
       {
         "id": 2,
