@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Forsaj 10",
         "categorie":"Kino",
-        "image": "https://img.freekino.net/banner/f10-forsaj-10_1686826507.jpg"
+        "image": "../images/forsaj.pnj"
       },
       {
         "id": 2,
