@@ -1,4 +1,70 @@
 {
+    "actors": [
+      {
+        "name": "Djenna Ortega",
+        "actor-img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+      },
+      {
+        "name": "Tom Holland",
+        "actor-img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+      },
+      {
+        "name": "",
+        "actor-img": ""
+      },
+      {
+        "name": "Kris Prat",
+        "actor-img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+      },
+      {
+        "name": "Jonni Depp",
+        "actor-img": "https://img.freekino.net/actor/thumb/dzonni-depp_1656348390.jpg"
+      },
+      {
+        "name": "Mila Kunis",
+        "actor-img": "https://www.themoviedb.org/t/p/w235_and_h235_face/811vCRSr9s2MFwCIOo1jWHltu3R.jpg"
+      },
+      {
+        "name": "Jaskie Sandler",
+        "actor-img": "https://www.themoviedb.org/t/p/w235_and_h235_face/j9XiOUVtolVM3sWGcLCw6yQSbJV.jpg"
+      },
+      {
+        "name": "Jorma Tommila",
+        "actor-img": "https://www.themoviedb.org/t/p/w235_and_h235_face/ll9ZZR4kMnHS8FU2yHx76bnm0P.jpg"
+      },
+      {
+        "name": "Cillian Murphy",
+        "actor-img": "https://www.themoviedb.org/t/p/w235_and_h235_face/i8dOTC0w6V274ev5iAAvo4Ahhpr.jpg"
+      },
+      {
+        "name": "Tatiana Maslani",
+        "actor-img": "https://img.freekino.net/actor/thumb/tatyana-maslani_1665924189.jpg"
+      },
+      {
+        "name": "Joey King",
+        "actor-img": "https://www.themoviedb.org/t/p/w235_and_h235_face/jUuKlP1hjPJ6R0d6MhUytr85oRL.jpg"
+      },
+      {
+        "name": "Cho Yi-hyun",
+        "actor-img": "https://img.freekino.net/actor/thumb/cho-yi-hyun_1644048107.jpg"
+      },
+      {
+        "name": "Owen Wilson",
+        "actor-img": "https://www.themoviedb.org/t/p/w235_and_h235_face/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+      },
+      {
+        "name": "James Hong",
+        "actor-img": "https://www.themoviedb.org/t/p/w235_and_h235_face/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+      },
+      {
+        "name": "Richard Madden",
+        "actor-img": "https://www.themoviedb.org/t/p/w235_and_h235_face/zP1QxxjhtnnjMutuYKtlOnvYD7P.jpg"
+      },
+      {
+        "name": "Austin Butter",
+        "actor-img": "https://www.themoviedb.org/t/p/w235_and_h235_face/zyizc36OayhIn3STXR8HXP0nnVm.jpg"
+      }
+    ],
     "movies": [
       {
         "id": 1,
