@@ -1,4 +1,366 @@
 {
+  "translated-movies":[
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    },
+    {
+      "name": "Djenna Ortega",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+    },
+    {
+      "name": "Kris Prat",
+      "year": "2022",
+      "quality": "FHD",
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+    }
+  ],
     "actors": [
       {
         "name": "Djenna Ortega",
