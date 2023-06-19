@@ -1,4 +1,118 @@
 {
+  "new_movies":[
+    {
+      "id": 1,
+      "name": "Forsaj 10",
+      "janr": "Kriminal, Jangari",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Qutqaruvchi AKA",
+      "janr": "Kriminal, Jangari",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Meladon",
+      "janr": "Triller, Ujas",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Forsaj 10",
+      "janr": "Kriminal, Jangari",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Qutqaruvchi AKA",
+      "janr": "Kriminal, Jangari",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Meladon",
+      "janr": "Triller, Ujas",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Forsaj 10",
+      "janr": "Kriminal, Jangari",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Qutqaruvchi AKA",
+      "janr": "Kriminal, Jangari",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Meladon",
+      "janr": "Triller, Ujas",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Forsaj 10",
+      "janr": "Kriminal, Jangari",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Qutqaruvchi AKA",
+      "janr": "Kriminal, Jangari",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Meladon",
+      "janr": "Triller, Ujas",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Forsaj 10",
+      "janr": "Kriminal, Jangari",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Qutqaruvchi AKA",
+      "janr": "Kriminal, Jangari",
+      "year": "2022",
+      "quality": "FHD",
+      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+    }
+  ],
   "translated_movies": [
     {
       "id": 1,
