@@ -311,7 +311,7 @@
     },
     {
       "id": 5,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -350,7 +350,7 @@
     },
     {
       "id": 8,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -389,7 +389,7 @@
     },
     {
       "id": 11,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -428,7 +428,7 @@
     },
     {
       "id": 14,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -467,7 +467,7 @@
     },
     {
       "id": 17,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -506,7 +506,7 @@
     },
     {
       "id": 20,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -545,7 +545,7 @@
     },
     {
       "id": 23,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -584,7 +584,7 @@
     },
     {
       "id": 26,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -623,7 +623,7 @@
     },
     {
       "id": 29,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -662,7 +662,7 @@
     },
     {
       "id": 32,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -701,7 +701,7 @@
     },
     {
       "id": 35,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -740,7 +740,7 @@
     },
     {
       "id": 38,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -779,7 +779,7 @@
     },
     {
       "id": 41,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -818,7 +818,7 @@
     },
     {
       "id": 44,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -857,7 +857,7 @@
     },
     {
       "id": 47,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -896,7 +896,7 @@
     },
     {
       "id": 50,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -935,7 +935,7 @@
     },
     {
       "id": 53,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -974,7 +974,7 @@
     },
     {
       "id": 56,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -1013,7 +1013,7 @@
     },
     {
       "id": 59,
-      "name": "Etik kiygan mushuk",
+      "name": "Qutqaruvchi / AKA",
       "year": "2022",
       "quality": [
         {
@@ -1225,63 +1225,63 @@
   "actors": [
     {
       "name": "Djenna Ortega",
-      "actr_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
     },
     {
       "name": "Tom Holland",
-      "actr_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
     },
     {
       "name": "Kris Prat",
-      "actr_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
     },
     {
       "name": "Jonni Depp",
-      "actr_img": "https://img.freekino.net/actor/thumb/dzonni-depp_1656348390.jpg"
+      "actor_img": "https://img.freekino.net/actor/thumb/dzonni-depp_1656348390.jpg"
     },
     {
       "name": "Mila Kunis",
-      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/811vCRSr9s2MFwCIOo1jWHltu3R.jpg"
+      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/811vCRSr9s2MFwCIOo1jWHltu3R.jpg"
     },
     {
       "name": "Jaskie Sandler",
-      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/j9XiOUVtolVM3sWGcLCw6yQSbJV.jpg"
+      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/j9XiOUVtolVM3sWGcLCw6yQSbJV.jpg"
     },
     {
       "name": "Jorma Tommila",
-      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/ll9ZZR4kMnHS8FU2yHx76bnm0P.jpg"
+      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/ll9ZZR4kMnHS8FU2yHx76bnm0P.jpg"
     },
     {
       "name": "Cillian Murphy",
-      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/i8dOTC0w6V274ev5iAAvo4Ahhpr.jpg"
+      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/i8dOTC0w6V274ev5iAAvo4Ahhpr.jpg"
     },
     {
       "name": "Tatiana Maslani",
-      "actr_img": "https://img.freekino.net/actor/thumb/tatyana-maslani_1665924189.jpg"
+      "actor_img": "https://img.freekino.net/actor/thumb/tatyana-maslani_1665924189.jpg"
     },
     {
       "name": "Joey King",
-      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/jUuKlP1hjPJ6R0d6MhUytr85oRL.jpg"
+      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/jUuKlP1hjPJ6R0d6MhUytr85oRL.jpg"
     },
     {
       "name": "Cho Yi-hyun",
-      "actr_img": "https://img.freekino.net/actor/thumb/cho-yi-hyun_1644048107.jpg"
+      "actor_img": "https://img.freekino.net/actor/thumb/cho-yi-hyun_1644048107.jpg"
     },
     {
       "name": "Owen Wilson",
-      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
     },
     {
       "name": "James Hong",
-      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
     },
     {
       "name": "Richard Madden",
-      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/zP1QxxjhtnnjMutuYKtlOnvYD7P.jpg"
+      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/zP1QxxjhtnnjMutuYKtlOnvYD7P.jpg"
     },
     {
       "name": "Austin Butter",
-      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/zyizc36OayhIn3STXR8HXP0nnVm.jpg"
+      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/zyizc36OayhIn3STXR8HXP0nnVm.jpg"
     }
   ],
   "movies": [
