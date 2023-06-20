@@ -1,9 +1,18 @@
 {
-  "new_movies":[
+  "new_movies": [
     {
       "id": 1,
       "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
+
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
@@ -11,7 +20,16 @@
     {
       "id": 2,
       "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
+
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
@@ -19,7 +37,16 @@
     {
       "id": 3,
       "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
+
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
@@ -27,7 +54,15 @@
     {
       "id": 4,
       "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
@@ -35,7 +70,15 @@
     {
       "id": 5,
       "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
@@ -43,7 +86,15 @@
     {
       "id": 6,
       "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
@@ -51,7 +102,15 @@
     {
       "id": 7,
       "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
@@ -59,7 +118,15 @@
     {
       "id": 8,
       "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
@@ -67,7 +134,15 @@
     {
       "id": 9,
       "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
@@ -75,7 +150,15 @@
     {
       "id": 10,
       "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
@@ -83,7 +166,15 @@
     {
       "id": 11,
       "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
@@ -91,7 +182,15 @@
     {
       "id": 12,
       "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
@@ -99,7 +198,15 @@
     {
       "id": 13,
       "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
@@ -107,609 +214,953 @@
     {
       "id": 14,
       "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "janr": {
+        "jangari": "Jangari",
+        "tarixiy": "Tarixiy",
+        "komediya": "Komediya",
+        "sarguzasht": "Sarguzasht",
+        "fantastika": "Fantastika",
+        "dramma": "Dramma",
+        "hayotiy": "Hayotiy"
+      },
       "year": "2022",
       "quality": "FHD",
       "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+    }
+  ],
+  "animations": [
+    {
+      "id": 1,
+      "name": "Qirol Sher",   
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Etik kiygan mushuk",
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Qoyilmaqom Moris",
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Qirol Sher",
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Etik kiygan mushuk",
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Qoyilmaqom Moris",
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Qirol Sher",
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Etik kiygan mushuk",
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Qoyilmaqom Moris",
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Qirol Sher",
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Etik kiygan mushuk",
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Qoyilmaqom Moris",
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Qirol Sher",
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Etik kiygan mushuk",
+      "year": "2022",
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     }
   ],
   "translated_movies": [
     {
       "id": 1,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 2,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 3,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 4,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 5,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 6,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 7,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 8,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 9,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 10,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 11,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 12,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 13,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 14,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 15,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 16,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 17,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 18,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 19,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 20,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 21,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 22,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 23,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 24,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 25,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 26,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 27,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 28,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 29,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 30,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 31,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 32,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 33,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 34,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 35,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 36,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 37,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 38,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 39,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 40,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 41,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 42,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 43,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 44,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 45,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 46,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 47,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 48,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 49,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 50,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 51,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 52,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 53,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 54,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 55,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 56,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 57,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     },
     {
       "id": 58,
-      "name": "Forsaj 10",
-      "janr": "Kriminal, Jangari",
+      "name": "Qirol Sher",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qirol-sher_1665307685.jpg"
     },
     {
       "id": 59,
-      "name": "Qutqaruvchi AKA",
-      "janr": "Kriminal, Jangari",
+      "name": "Etik kiygan mushuk",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/qutqaruvchi-aka-fransiya-filmi-uzbek-tilida-ozbekcha-2023-tarjima-kino-full-hd-skachat_1684452682.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/etik-kiygan-mushuk-2-songgi-istak_1673805898.jpg"
     },
     {
       "id": 60,
-      "name": "Meladon",
-      "janr": "Triller, Ujas",
+      "name": "Qoyilmaqom Moris",
       "year": "2022",
-      "quality": "FHD",
-      "movie_img": "https://img.freekino.net/poster/thumb/megalodon_1686825962.jpg"
+      "quality": {
+        "fhd":"FHD",
+        "hd":"HD",
+        "cd":"CD"
+      },
+      "movie_img": "https://img.freekino.net/poster/thumb/qoyilmaqom-moris-ajoyib-mushuk-moris_1672743574.jpg"
     }
   ],
   "actors": [
     {
       "name": "Djenna Ortega",
-      "actor_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
+      "actr_img": "https://img.freekino.net/actor/thumb/dzenna-ortega_1670868215.jpg"
     },
     {
       "name": "Tom Holland",
-      "actor_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
+      "actr_img": "https://img.freekino.net/actor/thumb/tom-xolland_1656870516.jpg"
     },
     {
       "name": "Kris Prat",
-      "actor_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
+      "actr_img": "https://img.freekino.net/actor/thumb/kris-pratt_1657733403.jpg"
     },
     {
       "name": "Jonni Depp",
-      "actor_img": "https://img.freekino.net/actor/thumb/dzonni-depp_1656348390.jpg"
+      "actr_img": "https://img.freekino.net/actor/thumb/dzonni-depp_1656348390.jpg"
     },
     {
       "name": "Mila Kunis",
-      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/811vCRSr9s2MFwCIOo1jWHltu3R.jpg"
+      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/811vCRSr9s2MFwCIOo1jWHltu3R.jpg"
     },
     {
       "name": "Jaskie Sandler",
-      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/j9XiOUVtolVM3sWGcLCw6yQSbJV.jpg"
+      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/j9XiOUVtolVM3sWGcLCw6yQSbJV.jpg"
     },
     {
       "name": "Jorma Tommila",
-      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/ll9ZZR4kMnHS8FU2yHx76bnm0P.jpg"
+      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/ll9ZZR4kMnHS8FU2yHx76bnm0P.jpg"
     },
     {
       "name": "Cillian Murphy",
-      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/i8dOTC0w6V274ev5iAAvo4Ahhpr.jpg"
+      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/i8dOTC0w6V274ev5iAAvo4Ahhpr.jpg"
     },
     {
       "name": "Tatiana Maslani",
-      "actor_img": "https://img.freekino.net/actor/thumb/tatyana-maslani_1665924189.jpg"
+      "actr_img": "https://img.freekino.net/actor/thumb/tatyana-maslani_1665924189.jpg"
     },
     {
       "name": "Joey King",
-      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/jUuKlP1hjPJ6R0d6MhUytr85oRL.jpg"
+      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/jUuKlP1hjPJ6R0d6MhUytr85oRL.jpg"
     },
     {
       "name": "Cho Yi-hyun",
-      "actor_img": "https://img.freekino.net/actor/thumb/cho-yi-hyun_1644048107.jpg"
+      "actr_img": "https://img.freekino.net/actor/thumb/cho-yi-hyun_1644048107.jpg"
     },
     {
       "name": "Owen Wilson",
-      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
     },
     {
       "name": "James Hong",
-      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
     },
     {
       "name": "Richard Madden",
-      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/zP1QxxjhtnnjMutuYKtlOnvYD7P.jpg"
+      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/zP1QxxjhtnnjMutuYKtlOnvYD7P.jpg"
     },
     {
       "name": "Austin Butter",
-      "actor_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/zyizc36OayhIn3STXR8HXP0nnVm.jpg"
+      "actr_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/zyizc36OayhIn3STXR8HXP0nnVm.jpg"
     }
   ],
   "movies": [
     {
       "id": 1,
-      "name": "Forsaj 10",
-      "categorie": "Kino",
+      "name": "Qirol Sher",
+      "catgorie": "Kino",
       "image": "https://img.freekino.net/banner/f10-forsaj-10_1686826507.jpg"
     },
     {
       "id": 2,
       "name": "Qo'rg'on sirlari",
-      "categorie": "Serial",
+      "catgorie": "Serial",
       "image": "https://img.freekino.net/banner/qorgon-sirlari_1685496585.jpg",
       "link": "https://www.freekino.net/serial/118-qorgon-sirlari"
     },
     {
       "id": 3,
       "name": "Penthaus",
-      "categorie": "Serial",
+      "catgorie": "Serial",
       "image": "https://img.freekino.net/banner/pentxaus_1686125886.jpg",
       "link": "https://www.freekino.net/serial/146-pentxaus"
     },
     {
       "id": 4,
       "name": "Mahkum",
-      "categorie": "Serial",
+      "catgorie": "Serial",
       "image": "https://img.freekino.net/banner/mahkum_1686112617.jpg",
       "link": "https://www.freekino.net/serial/117-mahkum"
     },
     {
       "id": 5,
       "name": "Nomus",
-      "categorie": "Serial",
+      "catgorie": "Serial",
       "image": "https://img.freekino.net/banner/nomus_1668857992.jpg",
       "link": "https://www.freekino.net/serial/69-nomus"
     },
     {
       "id": 6,
       "name": "Hukm",
-      "categorie": "Serial",
+      "catgorie": "Serial",
       "image": "https://img.freekino.net/banner/hukm_1686113901.jpg",
       "link": "https://www.freekino.net/serial/143-hukm-xukm"
     },
     {
       "id": 7,
       "name": "Olovli yurak",
-      "categorie": "Serial",
+      "catgorie": "Serial",
       "image": "https://img.freekino.net/banner/olovli-yurak_1686114023.jpg",
       "link": "https://www.freekino.net/serial/103-olovli-yurak"
     },
     {
       "id": 8,
       "name": "Hukumdor Usmon",
-      "categorie": "Serial",
+      "catgorie": "Serial",
       "image": "https://img.freekino.net/banner/hukmdor-usmon_1686113921.jpg",
       "link": "https://www.freekino.net/serial/76-hukmdor-usmon"
     }
