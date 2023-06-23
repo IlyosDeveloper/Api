@@ -1499,7 +1499,9 @@
       "quality": "FHD",
       "movie_post_img": "",
       "movie_img": "https://img.freekino.net/poster/thumb/f10-forsaj-10_1686825128.jpg"
-    },
+    }
+  ],
+  "serials":[
     {
       "id": 101,
       "name": "Yashirin bosqin",
